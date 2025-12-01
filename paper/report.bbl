@@ -1,0 +1,42 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Crane et~al.(2025)Crane, Green, and Soto]{FEDSNotes2025}
+Leland Crane, Michael Green, and Paul Soto.
+\newblock Measuring ai uptake in the workplace.
+\newblock FEDS Notes February 05, 2025, 2025.
+\newblock URL \url{https://www.federalreserve.gov/econres/notes/feds-notes/measuring-ai-uptake-in-the-workplace-20240205.html}.
+
+\bibitem[Ding et~al.(2025)Ding, Zhu, and Liu]{ding2025networksystemsperformancecharacterization}
+Zihao Ding, Mufeng Zhu, and Yao Liu.
+\newblock Network and systems performance characterization of mcp-enabled llm agents, 2025.
+\newblock URL \url{https://arxiv.org/abs/2511.07426}.
+
+\bibitem[Lee et~al.(2025)Lee, Akatsuka, Vidyaratne, Kumar, Farahat, and Gupta]{Xian2025}
+Xian~Yeow Lee, Shunichi Akatsuka, Lasitha Vidyaratne, Aman Kumar, Ahmed Farahat, and Chetan Gupta.
+\newblock Reliable decision-making for multi-agent llm systems.
+\newblock Industrial A.I. Laboratory, Hitachi America, Ltd., 2025.
+\newblock URL \url{https://multiagents.org/2025_artifacts/reliable_decision_making_for_multi_agent_llm_systems.pdf}.
+
+\bibitem[Soh and Singh(2024)]{Soh2024}
+Julian Soh and Priyanshi Singh.
+\newblock \emph{Data Science Solutions on Azure, second edition}.
+\newblock Apress, 2024.
+\newblock ISBN 979-8-8688-0913-2.
+
+\bibitem[Wang et~al.(2025)Wang, Tang, JIANG, Chen, Wang, and He]{wang2025agenttaxo}
+Qian Wang, Zhenheng Tang, ZICHEN JIANG, Nuo Chen, Tianyu Wang, and Bingsheng He.
+\newblock Agenttaxo: Dissecting and benchmarking token distribution of {LLM} multi-agent systems.
+\newblock In \emph{ICLR 2025 Workshop on Foundation Models in the Wild}, 2025.
+\newblock URL \url{https://openreview.net/forum?id=0iLbiYYIpC}.
+
+\bibitem[Zhu et~al.(2025)Zhu, Du, Hong, Yang, Guo, Wang, Wang, Qian, Tang, Ji, and You]{zhu2025multiagentbenchevaluatingcollaborationcompetition}
+Kunlun Zhu, Hongyi Du, Zhaochen Hong, Xiaocheng Yang, Shuyi Guo, Zhe Wang, Zhenhailong Wang, Cheng Qian, Xiangru Tang, Heng Ji, and Jiaxuan You.
+\newblock Multiagentbench: Evaluating the collaboration and competition of llm agents, 2025.
+\newblock URL \url{https://arxiv.org/abs/2503.01935}.
+
+\end{thebibliography}
