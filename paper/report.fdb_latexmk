@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex /Users/juliansoh/Documents/dev/AI-costmodel/Paper/report"] 1764556634.19302 "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.aux" "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.bbl" "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report" 1764557525.62991 0
-  "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.aux" 1764557525.28404 5043 0a7c16285cdf479145bd1346e35e2798 "pdflatex"
+["bibtex /Users/juliansoh/Documents/dev/AI-costmodel/Paper/report"] 1764886280.76064 "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.aux" "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.bbl" "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report" 1764886282.88488 0
+  "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.aux" 1764886282.57686 5017 8b887aabfb80eaecd824907bfa5d9c49 "pdflatex"
   "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.bib" 1764555994.06588 2253 0c2ef9c05b3c70f1d6fd592a5c44d882 ""
   "/usr/local/texlive/2025/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1233624470 26816 ffe5423d2019860bad9f54bc402fac15 ""
   (generated)
   "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.bbl"
   "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.blg"
   (rewritten before read)
-["pdflatex"] 1764557523.76087 "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.tex" "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.pdf" "report" 1764557525.63006 0
+["pdflatex"] 1764886280.88427 "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.tex" "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.pdf" "report" 1764886282.8855 0
   "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/figures/Adoption-oscillary-equilibrium.png" 1759423881.28354 42489 91a98814cb962b7c7ba19c2dbbda5bb2 ""
   "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/figures/BTOS-Model-350k.png" 1762290213.31818 634762 ff7ead4881fcbf861cd9a666b4ffe7e1 ""
   "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/figures/PTU-details-table.png" 1764525554.76694 70321 e5a0c252df6646d4daf7fb6b0d76f8ad ""
@@ -16,11 +16,11 @@
   "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/myfontstyle.sty" 1757906315.75131 511 da96ca531bb3be0955bfe35704ed6dcb ""
   "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/mymacros.sty" 1757906315.75122 663 63c3d61f7ba8bcf8c9a6fffb65f42de2 ""
   "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/mypackages.sty" 1757906315.75118 5792 ed21e291ad426fb42b8bb4cfd63bc326 ""
-  "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.aux" 1764557525.28404 5043 0a7c16285cdf479145bd1346e35e2798 "pdflatex"
-  "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.bbl" 1764556634.28693 2368 651f59b7874452f27fabfc5b61869ddf "bibtex /Users/juliansoh/Documents/dev/AI-costmodel/Paper/report"
-  "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.out" 1764557525.29155 179 471323e299a96e41ea78f039d74f82f5 "pdflatex"
-  "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.sta" 1764557525.27945 45 5977ee01d6365feae7164ffda30d2c8b "pdflatex"
-  "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.tex" 1764557523.01921 17699 23fa896174f1f315140c706dd7efcd81 ""
+  "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.aux" 1764886282.57686 5017 8b887aabfb80eaecd824907bfa5d9c49 "pdflatex"
+  "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.bbl" 1764886280.8739 2368 651f59b7874452f27fabfc5b61869ddf "bibtex /Users/juliansoh/Documents/dev/AI-costmodel/Paper/report"
+  "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.out" 1764886282.57808 179 471323e299a96e41ea78f039d74f82f5 "pdflatex"
+  "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.sta" 1764886282.57184 45 5977ee01d6365feae7164ffda30d2c8b "pdflatex"
+  "/Users/juliansoh/Documents/dev/AI-costmodel/Paper/report.tex" 1764886278.1241 17715 4fc2cea4348a991ecee87fbafe40f74c ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
